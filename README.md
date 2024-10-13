@@ -1,4 +1,4 @@
-# aptitude-patterns# Aptitude Patterns
+# Aptitude Patterns
 
 ## Overview
 This repository is dedicated to solving and documenting various aptitude problems and patterns. It serves as a personal study guide to enhance my analytical and problem-solving skills, particularly in preparation for competitive exams and interviews.
