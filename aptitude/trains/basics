@@ -1,0 +1,25 @@
+1.
+Train1 Overlaps Train2
+
+--> means train1 and train 2 running in parallel direction
+(-)speed
+
+2.
+train1 crosses train2 
+---> means train1 and train2 proceeds towards each other
+(+)speed
+
+In both the cases add the
+distance
+
+3.
+A long 100m train crossed a pole/standing man
+then distance travelled by the train
+    === length of the train
+
+4.
+A train of length 100m crossed a platform or tunnel 
+of lenght 200m
+then distance travelled by the train
+  === length of the train + length of the platform
+  
