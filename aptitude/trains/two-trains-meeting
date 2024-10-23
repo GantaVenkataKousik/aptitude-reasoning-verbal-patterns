@@ -1,0 +1,65 @@
+TYPE-I
+d = s1 [d + s2t / s1+s2]km
+need to find where they meet
+time 
+t=[s+s2t]/[s1+s2]
+
+TYPE-II
+distance is unknown
+d[s1+s2]/[s1-s2]km
+
+TYPE-III
+d=[s1*s2*t]/[s1_S2]km
+
+for time,
+[s1t][s1-s2]
+
+
+problems:
+
+
+1.
+
+Two trains start at the same time from A & B 
+and proceed towards B & A at 36 kmph & 42 Kmph respectively.
+When they meet, it is found that one train has moved 48 Km
+more than the other. What is the distance between A and B ?
+
+----->
+
+<---------------x-------------->
+<------ x -----><----x+48------>
+
+
+so now,
+
+
+x/36 = x+48/42
+
+
+which gives x
+
+for finding the distance between the two stations 
+x + x + 48 = gives us teh answer
+
+
+2.
+The distance between two stations A and B is 300Km. 
+A train leaves Station A at the speed of 30 Kmph. 
+at the same time another train departs from station B at the speed of 45 Kmph. 
+What will be the distance of the points where both the trains meet from point A?
+
+---------->
+
+<--------------300------------>
+<---------------x------------->
+<------x-------><----300-x---->
+
+x/s1 = 300-x/s2
+
+x -->
+
+
+
+
+
