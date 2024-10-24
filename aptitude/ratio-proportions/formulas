@@ -18,6 +18,16 @@ ac:bd
 ace : bdf
 
 
+Comparision of ratios 
+
+a:b > c:d
+a/b > c:d when ad > bc
+
+Compounded Ratio
+
+(a:b),(c:d),(e:f) is (ace : bdf)
+
+
 Proportion:
 -------->
 the equality of two ratios is called proportion
@@ -35,4 +45,6 @@ now
 Fourth Proportional : a:b = c:d then d is the fourth proportional to a,b,c
 Third Proprotional : a:b = b:c then b is the third proportional to a,b
 Mean Proportional : between a and b is sqaure root(a,b)
+
+a/b = c/d then a+b/a-b = c+d/c-d (componendo & dividendo)
 
