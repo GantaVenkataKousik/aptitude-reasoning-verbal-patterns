@@ -1,0 +1,38 @@
+1.Duplicate:
+a:b --> a2:b2
+
+2.Sub-Duplicate:
+a:b --> sq(a):sq(b)
+
+3.Triplicate:
+a:b --> a3:b3
+
+4.Sub - Triplicate:
+a:b --> cuberoot(a):suberoot(b)
+
+5.Mixed:
+(a:b) & (c:d)
+ac:bd
+
+(a:b),(c,d),(e,f)
+ace : bdf
+
+
+Proportion:
+-------->
+the equality of two ratios is called proportion
+a:b , c:d the proportion -> a:b :: c:d
+
+Here a & d are called extremes
+and
+b & c are mean terms
+
+and product of extremes  =  product of means
+a:b :: c:d => (b*c) = (a*d)
+
+now
+
+Fourth Proportional : a:b = c:d then d is the fourth proportional to a,b,c
+Third Proprotional : a:b = b:c then b is the third proportional to a,b
+Mean Proportional : between a and b is sqaure root(a,b)
+
