@@ -69,27 +69,6 @@ then find requiremtn
 
 19.
 
-
-
-1.Duplicate:
-a:b --> a2:b2
-
-2.Sub-Duplicate:
-a:b --> sq(a):sq(b)
-
-3.Triplicate:
-a:b --> a3:b3
-
-4.Sub - Triplicate:
-a:b --> cuberoot(a):suberoot(b)
-
-5.Mixed:
-(a:b) & (c:d)
-ac:bd
-
-(a:b),(c,d),(e,f)
-ace : bdf
-
 6.
 a:b = 3:7
 a = 3x
