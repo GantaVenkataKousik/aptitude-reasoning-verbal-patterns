@@ -1,1 +1,87 @@
 
+Coding & Decoding 
+
+Alphabet :
+
+1.
+If big numbers or symbols
+Direct mapping 
+of letters with numbers
+
+2. 18 5 4 ---[+2]---> 6 7 20
+
+3.sum of Alphabet positions
+direct sum
+--> first finding indiviudal sum of alphabet
+	positions
+
+4.Multiplication of
+(no of consonants)*(no of vowels)
+
+5.
+same consonant numbers
+swapping vowel no with their AEIOU ( 1 2 3 4 5)
+
+6.same vowel letters
+in remaining letters some are same and 
+some are added +1 
+
+7.word groups reorder
+
+8.sentence with word are assigned with 
+some numbers or 
+some words
+
+9.blue is called white
+white is called red..
+
+10.
++2 -2 +2 -2 +2
+
+11.
++1 +2 +3 -1 -2 -3
+
+12.
+Reverse Reorder
+
+13.
+indexes
+->
+1 2 3 4 -> 3 2 1 4
+along with +1
+
+14.
+words group are same and for remaining 
++1 +2 +3 [same Group]
+
+15.
+-1 +2 -3 +0 +1 -2 +3
+
+16.
+group reverse
+[1 2 3][4 5 6]
+[3 2 1][6 5 4]
+diff combinations in this reversing
+adding 1 to it
+
+17.
+odd positions - reverse
+remaining -7
+
+
+Numbers :
+
+1. 
+Big Nums
+--> Mutliplication
+if not satisfied addition to it
+
+2.
+consonants - same
+vowels 
+opp alpha num * 2
+
+3.
+
+
+
